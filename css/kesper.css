@@ -322,7 +322,7 @@ ul{
 /* Start Design */
 
 .design{
-  background-image: url(/img/design-features.jpg);
+  background-image: url("../img/design-features.jpg");
   height: 600px;
   position: relative;
   background-size: cover;
@@ -536,7 +536,7 @@ ul{
 
 /* <!-- Start Stat --> */
 .stat{
-  background-image: url(/img/stats.png);
+  background-image: url("../img/stats.png");
   background-size: cover;
   position: relative;
   padding-top: var(--section-padding);
@@ -737,7 +737,7 @@ ul{
 
 /* Start Quotos */
 .quotos{
-  background-image: url(/img/quote.jpg);
+  background-image: url("../img/quote.jpg");
   background-size: cover;
   position: relative;
   text-align: center;
@@ -874,7 +874,7 @@ ul{
 
 /* Start Subcribe */
 .subscribe{
-  background-image: url(/img/subscribe.jpg);
+  background-image: url("../img/subscribe.jpg");
   background-size: cover;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
@@ -1033,7 +1033,7 @@ ul{
 
 /* Start Footer */
 .foooter{
-  background-image: url(/img/subscribe.jpg);
+  background-image: url("../img/subscribe.jpg");
   background-size: cover;
   position: relative;
   color: white;
