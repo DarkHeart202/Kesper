@@ -1032,7 +1032,7 @@ ul{
 /* End Contact */
 
 /* Start Footer */
-.footer{
+.foooter{
   background-image: url(/img/subscribe.jpg);
   background-size: cover;
   position: relative;
@@ -1042,7 +1042,7 @@ ul{
   padding-bottom: calc(var(--section-padding )/2);
   
 }
-.footer::before{
+.foooter::before{
   content: '';
   width: 100%;
   height: 100%;
@@ -1051,13 +1051,13 @@ ul{
   background-color: rgb(0 0 0 / 70%);
   position: absolute;
 }
-.footer .container{
+.foooter .container{
   position: relative;
 }
-.footer .container img{
+.foooter .container img{
   margin-bottom: 20px;
 }
-.footer .container .social{
+.foooter .container .social{
   padding: 20px;
   text-transform: uppercase;
   margin: 20px auto;
@@ -1065,13 +1065,13 @@ ul{
   font-size: 22px;
   width: fit-content;
 }
-.footer .container .media i{
+.foooter .container .media i{
   padding: 10px 15px;
 }
-.footer .container p{
+.foooter .container p{
   margin-top: 60px;
 }
-.footer .container span{
+.foooter .container span{
   color: var(--main-color);
   font-weight: bold;
 }
